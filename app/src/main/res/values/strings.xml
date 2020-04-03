@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">aula3abril2020</string>
+    <string name="insira_a_altura">Insira a Altura</string>
+    <string name="insira_o_peso">Insira o Peso</string>
+    <string name="insira_a_idade">Insira a Idade</string>
+    <string name="insira_o_nome">Insira o Nome</string>
+    <string name="insira_o_telefone">Insira o Telefone</string>
+    <string name="insira_o_email">Insira o Email</string>
+</resources>
